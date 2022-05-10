@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @flpvill
-- 👀 I’m interested in: Programing ⌨️  and Graphic Design 💻
+- 👀 I’m interested in: Frontend Programing ⌨️  and Graphic Design 💻
 - 🌱 I’m currently learning: Programing 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
